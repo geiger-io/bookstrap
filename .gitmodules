@@ -1,6 +1,3 @@
 [submodule "tools/html2epub"]
 	path = tools/html2epub
 	url = git@github.com:andrewgribben/node-html2epub.git
-[submodule "bootstrap"]
-	path = bootstrap
-	url = git@github.com:twbs/bootstrap.git
