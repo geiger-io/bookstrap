@@ -1,0 +1,31 @@
+{
+  "name": "bookstrap",
+  "version": "1.0.0",
+  "description": "EPUB Framework and tools",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geiger-io/bookstrap.git"
+  },
+  "keywords": [
+    "epub"
+  ],
+  "author": "Andrew Gribben",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geiger-io/bookstrap/issues"
+  },
+  "homepage": "https://github.com/geiger-io/bookstrap#readme",
+  "devDependencies": {
+    "bootstrap": "github:twbs/bootstrap#v4-dev",
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
